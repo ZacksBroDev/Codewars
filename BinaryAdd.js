@@ -15,3 +15,8 @@ function addBinary(a, b) {
 console.log(addBinary(5, 9)); // Expected: "1110"
 console.log(addBinary(0, 0)); // Expected: "0"
 console.log(addBinary(1, 1)); // Expected: "10"
+
+
+// function addBinary(a, b) {
+//   return (a + b).toString(2);
+// }
